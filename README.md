@@ -1,2 +1,2 @@
 # CUDA-1---Accelerated-Systems
-A cute GPU CUDA parallel algorithm, for improving image quality. 
+A cute GPU CUDA algorithm, mainly designed to improve images quality
